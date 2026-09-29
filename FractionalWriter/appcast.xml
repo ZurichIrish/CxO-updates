@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FractionalWriter</title>
+        <item>
+            <title>3.5.4</title>
+            <pubDate>Tue, 29 Sep 2026 12:05:26 +0200</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>3.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/fractionalwriter-macos/FractionalWriter-3.5.4.dmg" length="6219734" type="application/octet-stream" sparkle:edSignature="NC38lHzFOhDBmYnfPTaYkMOBZS+ZQH9xsLYaD6Hw4u1p7QuU5zv68j+diA79aFszgKMbcNA9vgLtCH0lGdDDCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/fractionalwriter-macos/FractionalWriter34-33.delta" sparkle:deltaFrom="33" length="11290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="O37aQGUeOH3tTGRf+sKPYEA2YYv5foBr1dAro1fKLLkqDqOpMtpDqh5CR+mvRxO6yLjUEEKG24oDCSDePkRIDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>3.5.3</title>
+            <pubDate>Tue, 29 Sep 2026 11:41:20 +0200</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>3.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/fractionalwriter-macos/FractionalWriter-3.5.3.dmg" length="6219702" type="application/octet-stream" sparkle:edSignature="ZyRQppTkVca5XKxiu0EYyykBAFuQfEIONhibZjYODvEQHg6hhnsfzlUIv4OgLb2k4V7qSGUCMPkz64972L6VAw=="/>
+        </item>
+    </channel>
+</rss>
