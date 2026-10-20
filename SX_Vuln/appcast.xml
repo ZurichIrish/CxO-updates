@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SECURIX Vuln</title>
+        <item>
+            <title>6.1.2</title>
+            <pubDate>Tue, 20 Oct 2026 14:08:50 +0200</pubDate>
+            <sparkle:version>202610201406</sparkle:version>
+            <sparkle:shortVersionString>6.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX_Vuln_v6.1.2.dmg" length="3237805" type="application/octet-stream" sparkle:edSignature="+kaUfMkd6YPgD6HbvWN5lsMlBNoOzVv/DSyIECuqkloTZCBl2ocJwVHD12aF3yu9BV/SvLAdhp7da8P3UBGDCA=="/>
+        </item>
+    </channel>
+</rss>
