@@ -3,6 +3,19 @@
     <channel>
         <title>SECURIX Vuln</title>
         <item>
+            <title>6.2.1</title>
+            <pubDate>Tue, 27 Oct 2026 19:07:30 +0100</pubDate>
+            <sparkle:version>202610271905</sparkle:version>
+            <sparkle:shortVersionString>6.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX_Vuln_v6.2.1.dmg" length="3316778" type="application/octet-stream" sparkle:edSignature="Jf7hdg3aj2Mnlw8bQhGBe6GfpNsJxcfJ6b6YTFCd2OH/NlDSP1bjabL0vOrLBAPjYF3M2KDKA1B7HIn/yvPLCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX%20Vuln202610271905-202610211802.delta" sparkle:deltaFrom="202610211802" length="168434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="37017kca90SpB/wgBtIOMgEJA/RoWMTu6ciiLlht2NBQNQriyCBbWRoNKaHUzDNgrxWdBdf7UtEvZnEfrm2HCQ=="/>
+                <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX%20Vuln202610271905-202610211318.delta" sparkle:deltaFrom="202610211318" length="386334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CKQOqVV8rKvHbVhWREAcH64C5hK6bP0DgYk6jDxjx3hmkyxi2l3odGiKLP5Upw4QJQrwmsZl4BKDVQqpz/YKBA=="/>
+                <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX%20Vuln202610271905-202610201406.delta" sparkle:deltaFrom="202610201406" length="399430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Q/aku/IBLYSVs2RVeaSQJsVE+cPdoivZoXfdhjpJOxoTQPkoJvKcMMiM7imGxvDaxqiD8Rr/hnjF0T8WkG7lAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>6.2.0</title>
             <pubDate>Wed, 21 Oct 2026 18:04:17 +0200</pubDate>
             <sparkle:version>202610211802</sparkle:version>
@@ -24,14 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX%20Vuln202610211318-202610201406.delta" sparkle:deltaFrom="202610201406" length="202994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3825Ds9K/eZctV5i4mLBkeN9msvtM5PC3l6Af1BhulY+9zSXrkSOkanISu5C2b9F7Gdfd9QTRjJgo7wvRAaFCA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>6.1.2</title>
-            <pubDate>Tue, 20 Oct 2026 14:08:50 +0200</pubDate>
-            <sparkle:version>202610201406</sparkle:version>
-            <sparkle:shortVersionString>6.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ZurichIrish/CxO-updates/releases/download/sx_vuln-macos/SECURIX_Vuln_v6.1.2.dmg" length="3237805" type="application/octet-stream" sparkle:edSignature="+kaUfMkd6YPgD6HbvWN5lsMlBNoOzVv/DSyIECuqkloTZCBl2ocJwVHD12aF3yu9BV/SvLAdhp7da8P3UBGDCA=="/>
         </item>
     </channel>
 </rss>
